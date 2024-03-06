@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HemanthEnuguri
-- 👀 I’m passionate about DevOps practices.
+- 👀 I’m passionate about finding insights .
 - ✨ I’m looking to collaborate on real time projects on AWS and AZURE.
 - 📫 How to reach me enugurihemanthkumar@gmail.com
 
